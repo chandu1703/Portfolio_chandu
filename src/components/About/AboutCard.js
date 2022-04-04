@@ -10,10 +10,10 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am  <span className="purple">  Chandu  </span>
             from <span className="purple">  Hyderabad,Telangana, India. </span>
-            <br />I am a junior pursuing MERN-Full Satck Web Developer in Prepbytes.
+            <br />I am BSc graduate and pursuing MERN full stack course in Prepbytes
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            I am also interested into 
           </p>
           <ul>
             <li className="about-activity">
