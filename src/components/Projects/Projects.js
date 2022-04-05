@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import back from "../../Assets/Projects/back.png";
 import clock from "../../Assets/Projects/clock.png";
-import todo from "../../Assets/Projects/todo.png";
+import todo from "../../Assets/Projects/todo.jpg";
 import rblog from "../../Assets/Projects/rblog.png";
 
 function Projects() {
